@@ -9,7 +9,7 @@
  Books, Chapters and Articles
 =============================
 
-* `Mastering matplotlib
+* `Mastering Matplotlib
   <https://www.packtpub.com/big-data-and-business-intelligence/mastering-matplotlib>`_
   by Duncan M. McGreggor
 
@@ -41,7 +41,7 @@
  Videos
 =======
 
-* `Plotting with matplotlib <https://www.youtube.com/watch?v=P7SVi0YTIuE>`_
+* `Plotting with Matplotlib <https://www.youtube.com/watch?v=P7SVi0YTIuE>`_
   by Mike Müller
 
 * `Introduction to NumPy and Matplotlib
